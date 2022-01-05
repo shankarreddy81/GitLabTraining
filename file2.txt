@@ -1,0 +1,3 @@
+Initial file created with file name file2.txt
+
+Line 1 from File2
