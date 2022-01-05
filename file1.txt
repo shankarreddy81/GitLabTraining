@@ -3,3 +3,5 @@ Initial file created with file name file1.txt
 Line 1 from File 1
 
 Line 2 added after Feature_branch creation
+
+Line 3 added after hotfix_branch creation
