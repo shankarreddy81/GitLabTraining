@@ -5,7 +5,11 @@ Line 1 from File 1
 <<<<<<< .merge_file_Au4Ftx
 Line 2 added after Feature_branch creation
 
+<<<<<<< HEAD
 Line 3 added after hotfix_branch creation
 =======
 Added new line from Feature_Branch
 >>>>>>> .merge_file_ovDfPC
+=======
+Line 3 added from hotfix_branch
+>>>>>>> hotfix_branch
